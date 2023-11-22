@@ -16,5 +16,5 @@ Contents
 --------
 
 .. toctree::
-   Introduction
-   Functional description of ITS-FMS Interface
+   introduction
+   functional
