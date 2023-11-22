@@ -33,4 +33,4 @@ In the diagram below, a high-level architecture can be found between the ITS Clo
 .. figure:: ../source/images/ArchitectureCSP-FMS.png
    :alt: Architecture of CSP
 
-:blue: 'Figure 1: High Level architecture of CSP and FMS ecosystem – the ITS-FMS interface is situated between Cloud Service Provider and the Fleet Management System as information providers (indicated by a red dashed circle)'
+*Figure 1: High Level architecture of CSP and FMS ecosystem – the ITS-FMS interface is situated between Cloud Service Provider and the Fleet Management System as information providers*
