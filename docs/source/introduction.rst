@@ -34,3 +34,9 @@ In the diagram below, a high-level architecture can be found between the ITS Clo
    :alt: Architecture of CSP
 
 *Figure 1: High Level architecture of CSP and FMS ecosystem – the ITS-FMS interface is situated between Cloud Service Provider and the Fleet Management System as information providers*
+
+To implement the various use cases both some static and dynamic data is needed. For the static data (vehicle, trip and route) an Open Trip Model (see details in 3.2) specification over a REST interface is used. 
+However, for the dynamic data (ITS events, positions, control messages) it was deemed that the OTM definition was not suitable. 
+For the dynamic data, WebSockets are used over which Google Protocol Buffer messages (proto3) are exchanged.
+When implementing this ITS-FMS interface, effectively you’ll be setting up endpoints for both types of connections.
+
