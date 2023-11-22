@@ -17,6 +17,14 @@ The set of use cases involve:
 - Provisioning of information from variable message signs above the road;
 - ...
 
+* Smart traffic jam warnings;
+* Road hazard warnings;
+* Early warning messages from emergency and rescue services;
+* Information provision from traffic signals (iVRI)
+* Priority allocation at traffic signals;
+* Provisioning of information from variable message signs above the road;
+* ...
+
 This set of applications is characterized by low-latency services that make use of cellular communication services. 
 They are called ITS (intelligent transport systems) services within this context and form the scope of what is specified in this document.
 Currently, on the Connected Transport Corridors, several of these ITS services are already provided in-truck via a 4G wireless data connection via stand-alone smartphone apps, which communicate the route and position of the truck directly to a cloud service provider. 
