@@ -8,13 +8,14 @@ Scope and Objective
 
 With the ITS-FMS interface, a set of C-ITS use cases, based on the use cases defined by the Talking Traffic project, are being linked to logistics IT-systems (such as Fleet Management Systems), with a specific focus towards logistics operators. 
 The set of use cases involve:
-* Smart traffic jam warnings;
-* Road hazard warnings;
-* Early warning messages from emergency and rescue services;
-* Information provision from traffic signals (iVRI)
-* Priority allocation at traffic signals;
-* Provisioning of information from variable message signs above the road;
-* ...
+
+- Smart traffic jam warnings;
+- Road hazard warnings;
+- Early warning messages from emergency and rescue services;
+- Information provision from traffic signals (iVRI)
+- Priority allocation at traffic signals;
+- Provisioning of information from variable message signs above the road;
+- ...
 
 This set of applications is characterized by low-latency services that make use of cellular communication services. 
 They are called ITS (intelligent transport systems) services within this context and form the scope of what is specified in this document.
