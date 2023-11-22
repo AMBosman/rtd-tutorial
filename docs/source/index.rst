@@ -17,6 +17,6 @@ Contents
 --------
 
 .. toctree::
-
+   :numbered:
    usage
    api
